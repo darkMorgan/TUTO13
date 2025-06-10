@@ -1,51 +1,48 @@
-✍️ Parte 1: Diario de transformación
-🪞 ¿Quién era yo al comenzar este ciclo? ¿Qué pensaba, sentía o temía?
-Al comenzar este ciclo me sentía inseguro, con dudas sobre si realmente era capaz de enfrentar los nuevos retos académicos y personales. Temía no estar a la altura, fallar en mis responsabilidades o decepcionar a quienes confían en mí.
+# 📝 Diario de Transformación – Ciclo Académico
 
-🔁 ¿Qué ha cambiado en mi forma de actuar, pensar o relacionarme?
-Ahora soy más consciente de mi capacidad. He aprendido a confiar más en mi criterio y en mi proceso, a no rendirme ante la frustración. También he mejorado mi comunicación con los demás y me esfuerzo por pedir ayuda cuando la necesito.
+## ✍️ Parte 1: Reflexión Personal
 
-🌟 ¿Qué fue lo más valioso que aprendí sobre mí mism@?
-Aprendí que tengo una gran capacidad de adaptación y resiliencia. Que aunque dude, siempre termino encontrando la forma de seguir adelante y resolver lo que se presenta.
+### 🪞 ¿Quién era yo al comenzar este ciclo?
+> Me sentía inseguro, con dudas sobre si era capaz de enfrentar los retos.  
+> Temía no estar a la altura, fallar o decepcionar a quienes confían en mí.
 
-💡 ¿Estoy más cerca de lo que quiero ser o lograr?
-Sí, me siento más cerca. Todavía hay camino por recorrer, pero he avanzado mucho. Este ciclo me ha hecho sentir que cada esfuerzo vale la pena y me acerca a mis metas personales y profesionales.
+---
 
-📸 Parte 2: Mi línea del tiempo emocional
-📍 1. Inicio del ciclo
-¿Qué ocurrió? Comenzaron las clases y conocí los nuevos retos académicos.
+### 🔁 ¿Qué ha cambiado en mi forma de actuar, pensar o relacionarme?
+- Confío más en mi criterio y decisiones.
+- Me esfuerzo por no rendirme ante la frustración.
+- Pido ayuda cuando la necesito.
+- Me comunico con más empatía.
 
-¿Cómo me sentí? Abrumado por la carga académica y las expectativas.
+---
 
-¿Qué aprendí o reafirmé sobre mí? Que no necesito tener todo resuelto desde el primer día; puedo ir paso a paso.
+### 🌟 ¿Qué fue lo más valioso que aprendí sobre mí mism@?
+> Descubrí mi capacidad de adaptación y resiliencia.  
+> Aunque tenga dudas, siempre busco cómo avanzar y resolver.
 
-📍 2. Primer proyecto en equipo
-¿Qué ocurrió? Trabajé por primera vez con un nuevo grupo de compañeros.
+---
 
-¿Cómo me sentí? Retado y, al principio, frustrado por las diferencias.
+### 💡 ¿Estoy más cerca de lo que quiero ser o lograr?
+✅ **Sí.**  
+Me siento más cerca de mis metas. He avanzado y cada esfuerzo ha valido la pena.
 
-¿Qué aprendí o reafirmé sobre mí? Que la colaboración mejora con empatía y comunicación.
+---
 
-📍 3. Primer logro importante
-¿Qué ocurrió? Obtuve una buena calificación en un trabajo difícil.
+## 📸 Parte 2: Línea del Tiempo Emocional
 
-¿Cómo me sentí? Orgulloso y con más confianza en mí mismo.
+| # | Hito                      | ¿Qué ocurrió?                                                   | ¿Cómo me sentí?                            | ¿Qué aprendí o reafirmé?                                  |
+|---|---------------------------|------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------|
+| 1 | 🟢 Inicio del ciclo       | Comenzaron las clases, nuevos cursos y responsabilidades.        | Abrumado e inseguro.                        | Puedo avanzar paso a paso, sin saberlo todo al inicio.   |
+| 2 | 👥 Proyecto en equipo     | Trabajé con un nuevo grupo por primera vez.                      | Frustrado al principio, luego motivado.     | La empatía y la comunicación hacen la diferencia.        |
+| 3 | 🏆 Primer logro importante| Obtuve una buena calificación en un trabajo exigente.            | Orgulloso y con más confianza.              | Mis esfuerzos tienen resultados reales.                  |
+| 4 | ⚠️ Momento difícil        | Pasé por una crisis personal o académica.                        | Triste, confundido, con ganas de rendirme.  | Pedir ayuda no es debilidad, es parte del crecimiento.   |
+| 5 | 🎓 Cierre del ciclo       | Finalizaron las clases y reflexioné sobre lo vivido.             | Agradecido, fuerte y satisfecho.            | Todo deja una enseñanza valiosa.                         |
 
-¿Qué aprendí o reafirmé sobre mí? Que mis esfuerzos realmente dan resultados y debo reconocerme más.
+---
 
-📍 4. Momento de crisis o dificultad
-¿Qué ocurrió? Tuve un momento difícil a nivel personal o académico.
+## 🧠 Conclusión
 
-¿Cómo me sentí? Triste, confundido y con ganas de rendirme.
+Este ciclo fue una montaña rusa de emociones, pero salgo más fuerte y con una versión mejorada de mí mismo.  
+Cada desafío fue una oportunidad para crecer, y eso es algo que me llevo con orgullo.
 
-¿Qué aprendí o reafirmé sobre mí? Que puedo superar los momentos difíciles y que pedir ayuda es valioso.
-
-📍 5. Cierre del ciclo
-¿Qué ocurrió? Finalizaron las clases y pude ver todo lo que avancé.
-
-¿Cómo me sentí? Agradecido, más fuerte y consciente de mi crecimiento.
-
-¿Qué aprendí o reafirmé sobre mí? Que cada experiencia, buena o mala, me deja una enseñanza valiosa.
-
-
-
+---
